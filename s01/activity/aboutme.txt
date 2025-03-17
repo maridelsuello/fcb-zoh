@@ -1,1 +1,8 @@
 Maridel Suello
+
+Motivation
+	- to upskill
+	- to learn web development
+	- have understanding what Git, GitLab and GitHub are, how these three differ from each other and what are their uses
+	- have deeper understanding and be more skilled with HTML and CSS
+	- wanting to get a developer position soon
