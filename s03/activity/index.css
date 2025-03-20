@@ -1,0 +1,138 @@
+/*Universal Selector (*) - it selects every element on the page.*/
+
+*{
+	/*CSS Reset - set of CSS rules that removes the default styling applied by browsers to HTML elements. */
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	/*	font-family: "Courier New",monospace;	*/
+}
+
+a {
+	text-decoration: none;
+}
+
+*{
+	font-family: "Georgia",monospace;	
+
+}
+
+html{
+		scroll-behavior: smooth;
+	}
+
+body{
+		/*	background-color*/
+		background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnjw_EC9ugjXYfXsEvEneGj5Rzue8lNsDlOQ&s);
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-position: center;
+		background-attachment: fixed;
+	}
+
+nav{
+		background-color: floralwhite;
+		padding: 16px;
+		margin-bottom: 14px;
+	}
+
+.nav-link{
+			font-size: 18px;
+			margin-left: 5px;
+			margin-right: 5px;
+			color: darkolivegreen;
+		}
+
+a{
+	text-decoration: none;
+}
+
+#landing{
+		text-align: center;
+	}
+
+#profile{
+		height: 300px;
+		width: 300px;
+		margin-top: 15px;
+		margin-bottom: 15px;
+		border-radius: 150px;
+		border: 1px solid black;
+	}
+
+#name{
+		margin-top: 10px;
+		margin-bottom: 10px;
+	}
+
+#title{
+		margin-top: 10px;
+		margin-bottom: 10px;	
+	}
+
+#intro{
+
+		width: 500px;
+		margin: auto;
+	}
+
+#tools{
+		text-align: center;
+		margin-top: 15px;
+		margin-bottom: 15px;		
+	}
+
+#tools-title{
+		margin-top: 15px;
+		margin-bottom: 15px;
+	}
+
+.tools-img{
+		height: 200px;
+		width: 200px;
+		margin-left: 20px;
+		margin-right: 20px;
+	}
+
+#projects{
+		text-align: center;
+	}
+
+.card{
+		background-color: floralwhite;
+		height: 400px;
+		width: 600px;
+		margin-right: auto;
+		margin-left: auto;
+	
+		margin-top: 30px;
+		margin-bottom: 30px;
+		border-radius: 15px;
+	}
+
+.card img{
+		padding: 10px;
+		height: 350px;
+		width: 500px;
+		border-radius: 15px;
+	}
+
+footer{
+		text-align: center;
+		padding: 16px;
+		margin-top: 5px;
+		background-color: floralwhite;
+	}
+
+h2{
+	font-size: 50px;
+}
+h3{
+	font-size: 1.5rem;
+}
+h4{
+	padding: 10px;
+}
+
+
+
